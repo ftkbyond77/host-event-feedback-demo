@@ -218,3 +218,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 GCP_SA/*.json
+
+.DS_Store
